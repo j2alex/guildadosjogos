@@ -3,5 +3,5 @@
   publish = "dist"
 
 [template.environment]
-  ECOM_STORE_ID = "Your E-Com Plus Store ID"
-  ECOM_STORE_OBJECT_ID = "Your E-Com Plus Store Object ID"
+  ECOM_STORE_ID = "1047"
+  ECOM_STORE_OBJECT_ID = "5d4c99ba64c0aa347529f736"
